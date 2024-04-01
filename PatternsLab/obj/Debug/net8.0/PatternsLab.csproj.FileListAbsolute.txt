@@ -1,0 +1,14 @@
+C:\Users\davyd\RiderProjects\PatternsLab\bin\Debug\net8.0\PatternsLab.exe
+C:\Users\davyd\RiderProjects\PatternsLab\bin\Debug\net8.0\PatternsLab.deps.json
+C:\Users\davyd\RiderProjects\PatternsLab\bin\Debug\net8.0\PatternsLab.runtimeconfig.json
+C:\Users\davyd\RiderProjects\PatternsLab\bin\Debug\net8.0\PatternsLab.dll
+C:\Users\davyd\RiderProjects\PatternsLab\bin\Debug\net8.0\PatternsLab.pdb
+C:\Users\davyd\RiderProjects\PatternsLab\obj\Debug\net8.0\PatternsLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davyd\RiderProjects\PatternsLab\obj\Debug\net8.0\PatternsLab.AssemblyInfoInputs.cache
+C:\Users\davyd\RiderProjects\PatternsLab\obj\Debug\net8.0\PatternsLab.AssemblyInfo.cs
+C:\Users\davyd\RiderProjects\PatternsLab\obj\Debug\net8.0\PatternsLab.csproj.CoreCompileInputs.cache
+C:\Users\davyd\RiderProjects\PatternsLab\obj\Debug\net8.0\PatternsLab.dll
+C:\Users\davyd\RiderProjects\PatternsLab\obj\Debug\net8.0\refint\PatternsLab.dll
+C:\Users\davyd\RiderProjects\PatternsLab\obj\Debug\net8.0\PatternsLab.pdb
+C:\Users\davyd\RiderProjects\PatternsLab\obj\Debug\net8.0\PatternsLab.genruntimeconfig.cache
+C:\Users\davyd\RiderProjects\PatternsLab\obj\Debug\net8.0\ref\PatternsLab.dll
